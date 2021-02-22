@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.development</groupId>
   <artifactId>jsp-servlet-jdbc-mysql-crud-tutorial-master</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-${V_NO}</version>
   <packaging>war</packaging>
   <name>usermanagement</name>
     <dependencies>
